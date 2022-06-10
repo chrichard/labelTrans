@@ -15,6 +15,7 @@ save_txt_files1="your output label file address"
 
 # 3.VIA to coco  & labelme
 本项目有以下几个功能：
+
 a) 把VIA标注软件导出的json格式文件转换成COCO标注格式的程序
 这个程序修改自这里： https://github.com/codingwolfman/VIA2COCO 
 非常感谢，因为原作者的代码里面有点bug，所以直接使用是不行的。不过他并未对其进行维护。
